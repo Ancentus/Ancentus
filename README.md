@@ -35,3 +35,19 @@ Here are some ideas to get you started:
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+- 🔭 I’m currently working on Scientific Computing with python.
+- 🌱 I’m currently learning Computer Science.
+- 👯 I’m looking to collaborate on Health Informatics projects.
+- ⚡ Fun fact: I’m single😄
+- 💬 Let’s Talk Tech!
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ancentus&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ancentus&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
