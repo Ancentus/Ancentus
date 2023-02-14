@@ -51,4 +51,9 @@ Here are some ideas to get you started:
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mathematical Proof Terminology](https://ancentustech.wordpress.com/2021/12/21/mathematical-proof-terminology/)
+- [A Lesson From Global Warming](https://ancentustech.wordpress.com/2019/06/28/a-lesson-from-global-warming/)
+- [How random is random?](https://ancentustech.wordpress.com/2019/02/25/how-random-is-random/)
+- [The thought that sparked my interest in artificial intelligence](https://ancentustech.wordpress.com/2018/12/26/the-thought-that-sparked-my-interest-in-artificial-intelligence/)
+- [You Can Troubleshoot Anything – 3 Simple Steps](https://ancentustech.wordpress.com/2018/11/20/you-can-troubleshoot-anything-3-simple-steps/)
 <!-- BLOG-POST-LIST:END -->
