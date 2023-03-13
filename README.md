@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ancentus&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Latest Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
 - [Mathematical Proof Terminology](https://ancentustech.wordpress.com/2021/12/21/mathematical-proof-terminology/)
