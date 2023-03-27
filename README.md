@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </h1>
 </div>
 
-- 🔭 I’m currently working on an Electronic Paramedicine Care Records system.
+- 🔭 I’m currently working on Scientific Computing with Python.
 - 🌱 I’m currently learning Computer Science.
 - 👯 I’m looking to collaborate on Health Informatics projects.
 - ⚡ Fun fact: I’m single😄
