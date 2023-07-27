@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 ### :writing_hand: Latest Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My Unforgettable CS Internship Journey at JKUAT](https://ancentustech.wordpress.com/2023/07/26/my-unforgettable-cs-internship-journey-at-jkuat/)
 - [Embracing the Internship Adventure: Expectations, Challenges, and Puns Galore!](https://ancentustech.wordpress.com/2023/05/17/embracing-the-internship-adventure-expectations-challenges-and-puns-galore/)
 - [Mathematical Proof Terminology](https://ancentustech.wordpress.com/2021/12/21/mathematical-proof-terminology/)
 - [A Lesson From Global Warming](https://ancentustech.wordpress.com/2019/06/28/a-lesson-from-global-warming/)
 - [How random is random?](https://ancentustech.wordpress.com/2019/02/25/how-random-is-random/)
-- [The thought that sparked my interest in artificial intelligence](https://ancentustech.wordpress.com/2018/12/26/the-thought-that-sparked-my-interest-in-artificial-intelligence/)
 <!-- BLOG-POST-LIST:END -->
