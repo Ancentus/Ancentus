@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 </h1>
 </div>
 
-- 🔭 I’m currently working on web dev
-- 🌱 I’m currently learning Computer Science.
-- 👯 I’m looking to collaborate on Health Informatics projects.
+- 🔭 I’m currently working on AMUMA SMART Systems.
+- 🌱 I’m currently learning Data Science.
+- 👯 I’m looking to collaborate on IoT projects.
 - ⚡ Fun fact: I’m single😄
 - 💬 Let’s Talk Tech!
 
